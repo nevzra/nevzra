@@ -109,7 +109,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nevzra&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deoffuscated&theme=github_dark&show_icons=true&count_private=true&hide_border=true%22%20align=%22center%22"
     alt="nevzra" /></p>
 
 <br>
